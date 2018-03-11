@@ -1232,5 +1232,11 @@
         "jarName": "ChatFeelings.jar",
         "configName": "ChatFeelings",
         "freePlugin": true
-    }
+    },
+    {
+	    "name": "SimplePrefix",
+	    "desc": "Gives player prefix",
+	    "jarname": "SimplePrefix.jar"
+	    "configName": "SimplePrefix"
 ]
+    }
